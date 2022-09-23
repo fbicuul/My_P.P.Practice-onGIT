@@ -8,3 +8,6 @@ Essentially it tells your terminal that when you run the script it should use ba
 "sh" - Shell... 
 ///////////////////////////
 
+#! -- the character sequence consisting of the characters number sign and exclamation mark ( #!) at the beginning of a script. It is also called sharp-exclamation, sha-bang, hashbang, pound-bang, or hash-pling.
+
+
