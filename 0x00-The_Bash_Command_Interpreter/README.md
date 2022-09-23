@@ -1,4 +1,4 @@
-The shebang, "#!/bin/bash" when used in scripts is used to instruct the operating system to use bash as a command interpreter. Each of the systems has its own shells which the system will use to execute its own system scripts. This system shell can vary from OS to OS.
+The "#!/bin/bash" when used in scripts is used to instruct the operating system to use bash as a command interpreter. Each of the systems has its own shells which the system will use to execute its own system scripts. This system shell can vary from OS to OS.
 
 Essentially it tells your terminal that when you run the script it should use bash to execute it. It can be vital since you may be using a different shell in your machine ( zsh , fish , sh , etc.), but you designed the script to work specifically with bash.
 
