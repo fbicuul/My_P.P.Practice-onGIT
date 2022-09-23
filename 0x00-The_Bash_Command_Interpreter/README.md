@@ -4,7 +4,7 @@ Essentially it tells your terminal that when you run the script it should use ba
 
 ///////////////////////////
 "Zsh" - Z shell...
-"fish" - The Fish is a Unix shell with a focus on interactivity and usability, designed to give the user features by default, rather than by configuration. Fish is considered an exotic shell since it does not rigorously adhere to POSIX shell standards, at the discretion of the maintainers
+"fish" - (The Fish is a Unix shell with a focus on interactivity and usability, designed to give the user features by default, rather than by configuration. Fish is considered an exotic shell since it does not rigorously adhere to POSIX shell standards, at the discretion of the maintainers)
 "sh" - Shell... 
 ///////////////////////////
 
