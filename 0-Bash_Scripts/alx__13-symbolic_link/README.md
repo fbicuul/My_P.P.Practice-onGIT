@@ -1,0 +1,1 @@
+The (ln -s) command is a standard Unix command utility used to create a hard link or a symbolic link to an existing file or directory. The use of a hard link allows multiple filenames to be associated with the same file since a hard link points to the inode of a given file, the data of which is stored on disk.

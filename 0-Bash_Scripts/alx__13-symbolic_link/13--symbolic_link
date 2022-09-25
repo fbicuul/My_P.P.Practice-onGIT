@@ -1,0 +1,2 @@
+#!/bin/bash
+ln -s ~/testing_command/ My_Symbolic_link
