@@ -1,0 +1,1 @@
+The Unix command su, which stands for substitute user (or historically superuser), is used by a computer user to execute commands with the privileges of another user account. When executed it invokes a shell without changing the current working directory or the user environment.
