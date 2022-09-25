@@ -1,0 +1,1 @@
+A wildcard is a symbol used to replace or represent one or more characters. The most common wildcards are the asterisk (*), which represents one or more characters and question mark (?) that represents a single character
