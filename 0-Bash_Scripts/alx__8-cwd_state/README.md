@@ -1,1 +1,1 @@
-Script creates file and stores DIR INFO
+Script that creates file and stores DIR INFO
